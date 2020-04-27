@@ -9,7 +9,3 @@ operatii.
 In clasa Context stochez un vector de stringuri numit staging in care adaug
 modificarile care s-au facut asupra unui sistem de fisiere pe care nu s-a 
 facut inca commit.
-Nu am reusit sa implementez pana la capat metoda Checkout si de aceea nu-mi
-trec toate testele. Imi pare rau pentru codul necomentat si coding style-ul 
-inconsitent, dar nu mai am timp la dispozitie sa mai fac si asta. La viitoarea
-tema, voi avea mai mare grija cu asta.
